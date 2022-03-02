@@ -5,7 +5,7 @@
 ## Example configuration
 
 ```yaml
-version: "2.1"
+version: "3.1"
 services:
   gitolite:
     image: ghcr.io/0xfee15bad/docker-gitolite:master
